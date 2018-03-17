@@ -1,0 +1,23 @@
+#tabelka{
+    background-color: #2ef3cb;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+#tabelka table{
+    margin: 0 auto;
+    border: 1px solid black;
+}
+#tabelka th{
+    border: 1px solid black;
+    background: #e0c55b;
+}
+#tabelka td{
+    border: 1px dashed black;
+}
+#tabelka tr:hover{
+    background: azure;
+    font-weight: bold;
+}
+
+
